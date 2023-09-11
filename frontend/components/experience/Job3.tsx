@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from "framer-motion"
-import { TiArrowForward } from 'react-icons/ti'
+import { FiChevronsRight } from 'react-icons/fi'
 
 const Job3 = () => {
   return (
@@ -11,46 +11,31 @@ const Job3 = () => {
       className='w-full'
     >
       <h3 className='flex gap-2 font-small text-xl font-titleFont'>
-        Position 3 <span className='text-textGreen tracking-wide'>@Job 3</span>
+        Avionics Lead <span className='text-textGreen tracking-wide'>@ Brown Space Engineering</span>
       </h3>
       <p className='text-sm mt-1 font-medium text-textDark'>
-        Start - End
+        Sep. 2022 - Present
       </p>
       <ul className='mt-6 flex flex-col gap-3'>
         <li className='text-base flex gap-2 text-textDark'>
           <span className='text-textGreen mt-1'>
-            <TiArrowForward />
+            <FiChevronsRight />
           </span>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum 
-          dolor sit amet consectetur adipisicing elit. 
+          Developed training materials and successfully trained team members in 
+          circuit design and electronics.
         </li>
         <li className='text-base flex gap-2 text-textDark'>
           <span className='text-textGreen mt-1'>
-            <TiArrowForward />
+            <FiChevronsRight />
           </span>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum 
-          dolor sit amet consectetur adipisicing elit. 
+          Designed circuitry for battery management, IO board, and driver board 
+          using Eagle CAD software.
         </li>
         <li className='text-base flex gap-2 text-textDark'>
           <span className='text-textGreen mt-1'>
-            <TiArrowForward />
+            <FiChevronsRight />
           </span>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum 
-          dolor sit amet consectetur adipisicing elit. 
-        </li>
-        <li className='text-base flex gap-2 text-textDark'>
-          <span className='text-textGreen mt-1'>
-            <TiArrowForward />
-          </span>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum 
-          dolor sit amet consectetur adipisicing elit. 
-        </li>
-        <li className='text-base flex gap-2 text-textDark'>
-          <span className='text-textGreen mt-1'>
-            <TiArrowForward />
-          </span>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum 
-          dolor sit amet consectetur adipisicing elit. 
+          Programmed power management chip IC in C. 
         </li>
       </ul>
       
