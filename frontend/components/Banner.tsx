@@ -32,17 +32,15 @@ const Banner = () => {
           transition={{ duration: 0.5, delay: 1.1 }}
           className='text-base md:max-w-[650px] text-textDark font-medium'
         >
-          I am a junior at Brown University studying Computer Science and 
-          Applied Mathematics. I specialize in systems engineering, the MERN stack,
-          and various deep learning.  
+          I am a software engineer specializing in the
+          <span className='text-textGreen'> MERN stack</span>, 
+          <span className='text-textGreen'> systems engineering</span>, and 
+          <span className='text-textGreen'> machine learning. </span>
 
-          In my spare time you can find me on the tennis courts, traveling around 
-          the world, or finding the next "hidden gem" restaurant wherever I am.
-
-          I am always open to collaborate with companies, researchers, or peers 
-          who share my drive for innovation.{" "}
+           I am always open to collaborate with companies, researchers, or peers 
+          who share my drive for innovation.
           
-          <a href='' target='_blank'>
+          <a href='mailto:alex_lin@brown.edu'>
             <span className='text-textGreen inline-flex relative cursor-pointer 
               h-7 overflow-x-hidden group'
             > 
@@ -60,7 +58,9 @@ const Banner = () => {
           className='w-52 h-14 text-sm font-titleFont border border-textGreen 
             rounded-md text-textGreen tracking-wide hover:bg-hoverColor duration-300'
         >
-          Peep My Projects
+          <a href='https://github.com/alex-lin64' target='_blank'>
+            Peep My Projects
+          </a>
         </motion.button>
       </section>
   )
