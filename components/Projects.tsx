@@ -1,6 +1,5 @@
 import React from 'react'
 import Image from 'next/image'
-import { AiOutlineYoutube } from 'react-icons/ai'
 import { TbBrandGithub } from 'react-icons/tb'
 
 import SectionTitle from './SectionTitle'
@@ -62,13 +61,6 @@ const Projects = () => {
                 target='_blank'
               >
                 <TbBrandGithub />
-              </a>
-              <a 
-                className='hover:text-textGreen duration-300'
-                href=''
-                target='_blank'
-              >
-                <AiOutlineYoutube />
               </a>
             </div>
           </div>
