@@ -42,7 +42,7 @@ const Projects = () => {
               Squatty implements <span className='text-textGreen'>pose detection </span> 
               to track squats and record your squat count.  A punishment mode can 
               be activated, "encouraging" you to complete squats at specified 
-              intervals. Keep squatting, or you'll feel the consequences!{"  "}
+              intervals. Keep squatting, or you&apos;ll feel the consequences!{"  "}
               <span className='text-xs text-textGreen'>  
                 ** the water gun is triggered automatically
               </span>
@@ -108,7 +108,7 @@ const Projects = () => {
                 <span className='text-textGreen inline-flex relative cursor-pointer 
                   h-7 overflow-x-hidden group'
                 > 
-                  DARPA's BAA Ecole.
+                  DARPA&apos;s BAA Ecole.
                   <span className='absolute w-full h-[1px] bg-textGreen left-0 bottom-1 
                     -translate-x-[110%] group-hover:translate-x-0 transition-transform 
                     duration-500'/>

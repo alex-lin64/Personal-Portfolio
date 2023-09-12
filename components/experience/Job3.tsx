@@ -35,7 +35,7 @@ const Job3 = () => {
           <span className='text-textGreen mt-1'>
             <FiChevronsRight />
           </span>
-          Programmed the electrical power system's power management integrated 
+          Programmed the electrical power system&apos;s power management integrated 
           circuit using C. 
         </li>
       </ul>

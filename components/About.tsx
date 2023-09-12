@@ -12,12 +12,9 @@ import {
   SiCplusplus 
 } from 'react-icons/si'
 import { TbBrandGolang } from 'react-icons/tb'
-
-import {AiFillThunderbolt} from 'react-icons/ai'
-
-import SectionTitle from './SectionTitle'
 import { profile_img } from '@/public/assets'
 import { FaNodeJs, FaPython } from 'react-icons/fa'
+import SectionTitle from './SectionTitle'
 
 
 const About = () => {
@@ -57,7 +54,7 @@ const About = () => {
             and I thrive on projects that blend hardware and software.
           </p>
           <p>
-            In my free time, you'll catch me on the tennis courts, exploring the 
+            In my free time, you can catch me on the tennis courts, exploring the 
             globe, and hunting down hidden gem restaurants wherever I go. I also
             dabble in real estate as licensed 
             <span className='text-textGreen'> real estate agent</span>. Stay 

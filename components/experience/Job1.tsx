@@ -42,8 +42,8 @@ const Job1 = () => {
           <span className='text-textGreen mt-1'>
             <FiChevronsRight />
           </span>
-          Designed the baseline system for Boston Fusion's research proposal to 
-          DARPA's broad agency announcement ECOLE.
+          Designed the baseline system for Boston Fusion&apos;s research proposal to 
+          DARPA&apos;s broad agency announcement ECOLE.
         </li>
       </ul>
     </motion.div>
