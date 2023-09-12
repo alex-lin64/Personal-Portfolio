@@ -3,7 +3,7 @@ import Image from 'next/image'
 import { TbBrandGithub } from 'react-icons/tb'
 
 import SectionTitle from './SectionTitle'
-import { cshell_img, evmap_img, squatty_gif } from '@/public/assets'
+import { cshell_img, evmap_img, squatty_img } from '@/public/assets'
 
 
 const Projects = () => {
@@ -24,7 +24,7 @@ const Projects = () => {
             <div>
               <Image 
                 className="w-full h-full object-contain rounded-lg h-full object-cover border: 3px"
-                src={squatty_gif}
+                src={squatty_img}
                 alt="SquattyImg"
                 unoptimized={true}
               />
