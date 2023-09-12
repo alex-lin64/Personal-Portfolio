@@ -18,7 +18,7 @@ const Projects = () => {
         <div className='flex flex-col xl:flex-row gap-6'>
           <a 
             className='w-full xl:w-1/2 h-auto relative group' 
-            href='https://github.com/alex-lin64/Squatty' 
+            href='https://i.imgur.com/lhb6Oat.gifv' 
             target='_blank'
           >
             <div>

@@ -47,16 +47,16 @@ const About = () => {
             </span>
           </p>
           <p>
-            I am a junior as 
+            I am a junior at 
             <span className='text-textGreen'> Brown University </span>majoring in
             computer science and applied mathematics. Beyond the classroom, my 
-            interests encompasses engineering and entrepreneurship, 
+            interests encompass engineering and entrepreneurship, 
             and I thrive on projects that blend hardware and software.
           </p>
           <p>
             In my free time, you can catch me on the tennis courts, exploring the 
             globe, and hunting down hidden gem restaurants wherever I go. I also
-            dabble in real estate as licensed 
+            dabble in real estate as a licensed 
             <span className='text-textGreen'> real estate agent</span>. Stay 
             tuned for updates on my latest projects - this page is always evolving!
           </p>
