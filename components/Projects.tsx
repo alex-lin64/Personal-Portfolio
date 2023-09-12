@@ -26,6 +26,7 @@ const Projects = () => {
                 className="w-full h-full object-contain rounded-lg h-full object-cover border: 3px"
                 src={squatty_gif}
                 alt="SquattyImg"
+                unoptimized={true}
               />
             </div>
           </a>
