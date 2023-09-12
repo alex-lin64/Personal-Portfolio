@@ -29,13 +29,14 @@ const Job3 = () => {
             <FiChevronsRight />
           </span>
           Designed circuitry for battery management, IO board, and driver board 
-          using Eagle CAD software.
+          using Eagle by Autodesk.
         </li>
         <li className='text-base flex gap-2 text-textDark'>
           <span className='text-textGreen mt-1'>
             <FiChevronsRight />
           </span>
-          Programmed power management chip IC in C. 
+          Programmed the electrical power system's power management integrated 
+          circuit using C. 
         </li>
       </ul>
       

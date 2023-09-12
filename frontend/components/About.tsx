@@ -51,15 +51,17 @@ const About = () => {
           </p>
           <p>
             I am a junior as 
-            <span className='text-textGreen'> Brown University. </span>with a 
-            strong academic focus on computer science and applied mathematics. 
-            But my interests extend beyond the classroom to engineering and entrepreneurship, 
-            where I thrive on projects that blend hardware and software."
+            <span className='text-textGreen'> Brown University </span>majoring in
+            computer science and applied mathematics. Beyond the classroom, my 
+            interests encompasses engineering and entrepreneurship, 
+            and I thrive on projects that blend hardware and software.
           </p>
           <p>
             In my free time, you'll catch me on the tennis courts, exploring the 
-            globe, and hunting down hidden gem restaurants wherever I go. Stay 
-            tuned for updates on my latest projects - this page is always evolving!"
+            globe, and hunting down hidden gem restaurants wherever I go. I also
+            dabble in real estate as licensed 
+            <span className='text-textGreen'> real estate agent</span>. Stay 
+            tuned for updates on my latest projects - this page is always evolving!
           </p>
           <p className='text-textGreen'>Here are the technologies I have been working with: </p>
           <ul className='make-w-[450px] text-med font-titleFont grid grid-cols-3 grap-2 mt-6'>

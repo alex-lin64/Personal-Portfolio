@@ -1,11 +1,10 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import { easeIn, motion } from 'framer-motion'
-import { animate } from 'framer-motion/dom'
+import { motion } from 'framer-motion'
 import { useRef, useState } from 'react'
 import { MdOutlineClose } from 'react-icons/md'
 
-import { placeholder } from '@/public/assets'
+import { logo } from '@/public/assets'
 import { FaGithub } from 'react-icons/fa'
 import { SiLinkedin } from 'react-icons/si'
 
@@ -49,7 +48,7 @@ const Navbar = () => {
           animate={{ opacity: 1 }} 
           transition={{ duration: 0.5}}
         >
-          <Image className="w-14" src={placeholder} alt="logo" />
+          <Image className="w-20" src={logo} alt="logo" />
         </motion.div>
         <div className='hidden mdl:inline-flex items-center gap-7'>
           <ul className='flex text-[13px] gap-7'>

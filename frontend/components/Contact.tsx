@@ -16,8 +16,8 @@ const Contact = () => {
         Seeking Internships for Summer 2024
       </span>
       <p className='max-w-[600px] text-center text-textDark'>
-        I am currently looking for role in software engineering, systems engineering,
-        and ML/AI development.  Always feel free to reach out, I'd love to chat!
+        I am currently looking for roles in software engineering, systems engineering,
+        and ML/AI.  Always feel free to reach out, I'd love to chat!
       </p>
       <a href='mailto:alex_lin@brown.edu'>
         <button className='w-40 h-14 border border-textGreen mt-6 font-titleFont 

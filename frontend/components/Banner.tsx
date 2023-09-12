@@ -23,7 +23,7 @@ const Banner = () => {
         >
           Alex Lin.{" "} 
           <span className='text-textDark mt-2 lgl:mt-4'>
-            Software Engineer, ML/AI Practitioner, Real Estate Entrepreneur
+            Software Engineer, ML/AI Practitioner
           </span>
         </motion.h1>
         <motion.p 
@@ -32,12 +32,12 @@ const Banner = () => {
           transition={{ duration: 0.5, delay: 1.1 }}
           className='text-base md:max-w-[650px] text-textDark font-medium'
         >
-          I am a software engineer specializing in the
-          <span className='text-textGreen'> MERN stack</span>, 
+          I am an aspiring software engineer experienced with the
+          <span className='text-textGreen'> MERN </span>stack, 
           <span className='text-textGreen'> systems engineering</span>, and 
           <span className='text-textGreen'> machine learning. </span>
 
-           I am always open to collaborate with companies, researchers, or peers 
+           I am always looking to collaborate with companies, researchers, or peers 
           who share my drive for innovation.
           
           <a href='mailto:alex_lin@brown.edu'>
