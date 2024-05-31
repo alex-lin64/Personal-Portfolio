@@ -27,11 +27,11 @@
 <div align="center">
 
 
-  <h3 align="center">Alex Lin's Personal Portfolio</h3>
+  <h3 align="center">Alex Lin's Personal Portfolio v1</h3>
 
   <p align="center">
     <br />
-    <a href="https://alexlin.vercel.app">View Website</a>
+    <a href="https://alexlinv1.vercel.app">View Website</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://alexlin.vercel.app)
+[![Product Name Screen Shot][product-screenshot]](https://alexlinv1.vercel.app)
 
 Hi!  Welcome to my personal portfolio.  This is where I host all of my information,
 including latest projects, activity, as well as ways to get in contact with we.  The design and functionality of this website was heavily based off of Brittany Chiang's personal porfolio, linked [here](https://v4.brittanychiang.com/).  However, this is just the start, and my personal portfolio will evolve and change in style and in content as I develop my skills as a software engineer, so make sure to check back often!
@@ -97,7 +97,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Alex Lin - alex_lin@brown.edu
 
-Project Link: [alexlin.vercel.app](https://alexlin.vercel.app)
+Project Link: [alexlinv1.vercel.app](https://alexlinv1.vercel.app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
